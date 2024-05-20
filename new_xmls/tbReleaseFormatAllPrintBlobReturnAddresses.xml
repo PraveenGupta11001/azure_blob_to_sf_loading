@@ -1,0 +1,35 @@
+<CcpTableCollection><tbReleaseFormatAllPrintBlobReturnAddresses>
+		<tbReleaseFormatAllPrintBlobReturnAddressesRow>
+			<cReturnName>Blue Cross &amp; Blue Shield of Rhode Island</cReturnName>
+			<cAttention>Claims Disbursements - 00013</cAttention>
+			<cReturnAttentionLine1>Claims Disbursements - 00013</cReturnAttentionLine1>
+			<cReturnAttentionLine2>
+			</cReturnAttentionLine2>
+			<cReturnLogoInternalName>
+			</cReturnLogoInternalName>
+			<cReturnLogoPosition>NA</cReturnLogoPosition>
+			<cReturnAddress1>500 Exchange Street</cReturnAddress1>
+			<cReturnAddress2>
+			</cReturnAddress2>
+			<cReturnAddress3>
+			</cReturnAddress3>
+			<cReturnAddress4>
+			</cReturnAddress4>
+			<cReturnCity>Providence,</cReturnCity>
+			<cReturnState>RI</cReturnState>
+			<cReturnZip>02903</cReturnZip>
+			<cReturnZip4>2699</cReturnZip4>
+			<cReturnCountry>
+			</cReturnCountry>
+			<cClientId>1316</cClientId>
+			<cReturnInternationalCityOrTown>
+			</cReturnInternationalCityOrTown>
+			<cReturnInternationalProvinceOrTerritory>
+			</cReturnInternationalProvinceOrTerritory>
+			<cReturnInternationalPostalCode>
+			</cReturnInternationalPostalCode>
+			<cReturnInternationalCountry>US</cReturnInternationalCountry>
+			<lReturnIsPoBox>0</lReturnIsPoBox>
+		</tbReleaseFormatAllPrintBlobReturnAddressesRow>
+	</tbReleaseFormatAllPrintBlobReturnAddresses>
+	</CcpTableCollection>

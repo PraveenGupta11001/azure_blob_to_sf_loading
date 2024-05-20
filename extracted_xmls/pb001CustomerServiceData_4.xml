@@ -1,0 +1,8 @@
+<CcpTableCollection><pb001CustomerServiceData>
+		<pb001CustomerServiceDataRow>
+			<mCustomerServiceText>&lt;Section xml:space="preserve" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph Margin="0" TextAlignment="Center"&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;Please call BlueLine, our automated system &lt;/Bold&gt;&lt;/Span&gt;&lt;/Paragraph&gt;&lt;Paragraph Margin="0" TextAlignment="Center"&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;at &lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;&lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;(401) 272-1590&lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;&lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt; or &lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;&lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;1-800-327-6712&lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;&lt;/Bold&gt;&lt;/Span&gt;&lt;/Paragraph&gt;&lt;Paragraph Margin="0" TextAlignment="Center"&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;or call the Physician and Provider Service Center &lt;/Bold&gt;&lt;/Span&gt;&lt;/Paragraph&gt;&lt;Paragraph Margin="0" TextAlignment="Center"&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;at &lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;&lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;(401) 274-4848 or 1-800-230-9050&lt;/Bold&gt;&lt;/Span&gt;&lt;Span FontSize="12"&gt;&lt;Bold&gt;&lt;/Bold&gt;&lt;/Span&gt;&lt;/Paragraph&gt;&lt;/Section&gt;</mCustomerServiceText>
+			<mCustomerServiceDisclaimer>
+			</mCustomerServiceDisclaimer>
+		</pb001CustomerServiceDataRow>
+	</pb001CustomerServiceData>
+	</CcpTableCollection>

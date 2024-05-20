@@ -1,0 +1,24 @@
+<CcpTableCollection><pb001EPaymentSupplemental>
+		<pb001EPaymentSupplementalRow>
+			<cRegistrationCode>
+			</cRegistrationCode>
+			<cPin>
+			</cPin>
+			<cCardNumber>
+			</cCardNumber>
+			<cCardExpirationMMYY>
+			</cCardExpirationMMYY>
+			<cClaimNumber>0003787580 00</cClaimNumber>
+			<cProviderTaxId>5097</cProviderTaxId>
+			<cProviderSubTaxId>
+			</cProviderSubTaxId>
+			<cNationalProviderId>1588691620</cNationalProviderId>
+			<cVcardTemplate>
+			</cVcardTemplate>
+			<cComments>
+			</cComments>
+			<cEpayTransactionId>
+			</cEpayTransactionId>
+		</pb001EPaymentSupplementalRow>
+	</pb001EPaymentSupplemental>
+	</CcpTableCollection>
